@@ -14,6 +14,7 @@
 #
 /lib/*.jar
 /test/files/codelib/*.jar
+/test/files/lib/*.jar
 /test/files/speclib/instrumented.jar
 /tools/*.jar
 
